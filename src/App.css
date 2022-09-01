@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  margin: 1% 5% 1% 5%;
+}
+.cardText {
+  display: flex;
+  flex-direction: column;
+}
+.episodes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  margin-left: 45%;
+}
